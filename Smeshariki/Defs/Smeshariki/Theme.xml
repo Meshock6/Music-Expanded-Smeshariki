@@ -1,0 +1,29 @@
+<Defs>
+	<MusicExpanded.ThemeDef>
+		<defName>ME_Smeshariki</defName>
+		<label>Music Expanded: Smeshariki</label>
+		<iconPath>UI/Icons/Smeshariki</iconPath>
+		<description>The soundtrack of the best russial cartoon Smeshariki. Mog includes music from original 2D, 3D series and films. Link to original mod from Roman Beloz'orov: https://top-mods.ru/mods/rimworld/sound/31962-muzyka-iz-smesharikov-dlja-rimworld.html</description>
+		<tracks>
+			<li>ME_Smeshariki_Chill</li>
+			<li>ME_Smeshariki_Blue_Mask</li>
+			<li>ME_Smeshariki_Day</li>
+			<li>ME_Smeshariki_Discord</li>
+			<li>ME_Smeshariki_Friend</li>
+			<li>ME_Smeshariki_New_Robot</li>
+			<li>ME_Smeshariki_Newbie</li>
+			<li>ME_Smeshariki_Night</li>
+			<li>ME_Smeshariki_Parting</li>
+			<li>ME_Smeshariki_Rain</li>
+			<li>ME_Smeshariki_Space</li>
+			<li>ME_Smeshariki_Techno</li>
+			<li>ME_Smeshariki_Walk</li>
+			<li>ME_Smeshariki_Wheeled_Bed</li>
+			<li>ME_Smeshariki_Bonehead_Remix</li>
+			<li>ME_Smeshariki_Desert</li>
+			<li>ME_Smeshariki_Its_So_Easy</li>
+			<li>ME_Smeshariki_Lets_Go</li>
+			<li>ME_Smeshariki_Plus_Minus_Seven</li>
+		</tracks>
+	</MusicExpanded.ThemeDef>
+</Defs>

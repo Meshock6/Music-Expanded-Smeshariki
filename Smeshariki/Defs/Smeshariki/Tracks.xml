@@ -1,0 +1,108 @@
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Chill</label>
+		<defName>ME_Smeshariki_Chill</defName>
+		<clipPath>MusicExpanded/Smeshariki/Chill</clipPath>
+		<cue>MainMenu</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Blue Mask</label>
+		<defName>ME_Smeshariki_Blue_Mask</defName>
+		<clipPath>MusicExpanded/Smeshariki/Blue_Mask</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Day</label>
+		<defName>ME_Smeshariki_Day</defName>
+		<clipPath>MusicExpanded/Smeshariki/Day</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Discord</label>
+		<defName>ME_Smeshariki_Discord</defName>
+		<clipPath>MusicExpanded/Smeshariki/Discord</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Friend</label>
+		<defName>ME_Smeshariki_Friend</defName>
+		<clipPath>MusicExpanded/Smeshariki/Friend</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- New Robot</label>
+		<defName>ME_Smeshariki_New_Robot</defName>
+		<clipPath>MusicExpanded/Smeshariki/New_Robot</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Newbie</label>
+		<defName>ME_Smeshariki_Newbie</defName>
+		<clipPath>MusicExpanded/Smeshariki/Newbie</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Night</label>
+		<defName>ME_Smeshariki_Night</defName>
+		<clipPath>MusicExpanded/Smeshariki/Night</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Parting</label>
+		<defName>ME_Smeshariki_Parting</defName>
+		<clipPath>MusicExpanded/Smeshariki/Parting</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Rain</label>
+		<defName>ME_Smeshariki_Rain</defName>
+		<clipPath>MusicExpanded/Smeshariki/Rain</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Space</label>
+		<defName>ME_Smeshariki_Space</defName>
+		<clipPath>MusicExpanded/Smeshariki/Space</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Techno</label>
+		<defName>ME_Smeshariki_Techno</defName>
+		<clipPath>MusicExpanded/Smeshariki/Techno</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Walk</label>
+		<defName>ME_Smeshariki_Walk</defName>
+		<clipPath>MusicExpanded/Smeshariki/Walk</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Wheeled Bed</label>
+		<defName>ME_Smeshariki_Wheeled_Bed</defName>
+		<clipPath>MusicExpanded/Smeshariki/Wheeled_Bed</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Bonehead (remix)</label>
+		<defName>ME_Smeshariki_Bonehead_Remix</defName>
+		<clipPath>MusicExpanded/Smeshariki/Bonehead_Remix</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Desert</label>
+		<defName>ME_Smeshariki_Desert</defName>
+		<clipPath>MusicExpanded/Smeshariki/Desert</clipPath>
+		<allowedBiomes><li>ExtremeDesert</li></allowedBiomes>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- It's So Easy</label>
+		<defName>ME_Smeshariki_Its_So_Easy</defName>
+		<clipPath>MusicExpanded/Smeshariki/Its_So_Easy</clipPath>
+		<cue>LoneColonist</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Lets Go (Ot Vinta)</label>
+		<defName>ME_Smeshariki_Lets_Go</defName>
+		<clipPath>MusicExpanded/Smeshariki/Lets_Go</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Smeshariki- Plus 7, Minus 7</label>
+		<defName>ME_Smeshariki_Plus_Minus_Seven</defName>
+		<clipPath>MusicExpanded/Smeshariki/Plus_Minus_Seven</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+        <allowedSeasons>
+            <li>Winter</li>
+        </allowedSeasons>
+	</MusicExpanded.TrackDef>
+</Defs>
